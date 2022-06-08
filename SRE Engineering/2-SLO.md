@@ -1,7 +1,7 @@
 # Service Level Objective
 A Service Level Objective ( SLO ) are measurable internal objectives we can meet in a [[1-SLA]]. The biggest benifit of SLO, is to sync teams and provide a clear achievable objectives to meet SLA and User Satisfacation.
 
-***Achievable SLO is not 100%
+***Achievable SLO is not 100%***
 
 Failure is normal and systems can afford to fail. If we to direct all effort into realability, how can new features be deveoped? So how can we create an effective SLO to balance relability, development and user satisfaction while budgeting our failures?
 
